@@ -633,7 +633,11 @@ h2.logo {
     width: 100%;
     height: auto;
   }
-.container1> h2, .container1>p, .container1>ul>li{
-    font-size: small;
+.container1>h2,.container1>p,.container1 ul>li{
+   font-size: smaller;
+ }
+ .sign-up h2, .sign-up p{
+  font-size: smaller;
+ }
 }
 
