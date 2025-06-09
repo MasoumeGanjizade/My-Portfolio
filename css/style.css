@@ -472,6 +472,12 @@ button {
   width: 80%;
   max-width: 300px;
 }
+.container1>h2,.container1>p,.container1 ul>li{
+   font-size: small;
+ }
+ .sign-up h2, .sign-up p{
+  font-size: small;
+ }
 }
 
 @media (max-width: 577px) {
