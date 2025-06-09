@@ -629,5 +629,9 @@ h2.logo {
     flex-direction: column;
     align-items: center;
   }
+  .sec3{
+    width: 100%;
+    height: auto;
+  }
 }
 
